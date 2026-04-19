@@ -1,6 +1,6 @@
-# RatonRAT-Owned
+# RatonRAT - Remote Administration Tool
 
-##  RatonRAT - Remote Administration Tool
+##  RatonRAT Owned By Kings
 
 **RatonRAT** is a powerful remote administration and monitoring solution for Windows systems. This repository provides
 access to the full version with all features unlocked.
